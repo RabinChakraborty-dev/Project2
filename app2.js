@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-// Add new features -button
-
-=======
-// Add new features -form
->>>>>>> feature
+// Add new features - button
+// Add new features - form
